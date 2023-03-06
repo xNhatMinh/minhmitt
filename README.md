@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nhat Minh</h1>
 <h3 align="center">I love music</h3>
-<img align="right" alt="Coding" length="300" src="https://steamuserimages-a.akamaihd.net/ugc/948461954605685874/AC646D725B78CC579EA80462EF7E116225FC8D7C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjYwNzdlNzhkYzNhZmQ3MDdlMmMxODlhN2MyMTIzMDZlNTJlYWIyZSZjdD1z/8FAM2viIuP2UpGjEwT/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhmitt&label=Profile%20views&color=0e75b6&style=flat" alt="minhmitt" /> </p>
